@@ -38,7 +38,7 @@ public class MyFirstProgram1
                     String s = String.valueOf(w);
                     System.out.println("String is: " + s);
                     System.out.println("null");
-                    System.out.println("git");
+                    System.out.println("git1");
                     Outer_Demo.Inner_Demo inner = outer.new Inner_Demo();
                     System.out.println(inner.getNum());
                 }
