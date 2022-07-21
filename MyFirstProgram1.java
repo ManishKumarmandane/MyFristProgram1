@@ -39,7 +39,7 @@ public class MyFirstProgram1
                     System.out.println("String is: " + s);
                     System.out.println("null");
                     System.out.println("git1");
-                    System.out.println("hgg");
+                    //System.out.println("hgg");
                     Outer_Demo.Inner_Demo inner = outer.new Inner_Demo();
                     System.out.println(inner.getNum());
                 }
